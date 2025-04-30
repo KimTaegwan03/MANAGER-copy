@@ -1,0 +1,10 @@
+data/
+__pycache__
+video.*
+*.mp4
+*.wav
+tmp
+split_audio/*
+output/extracted_frames/*
+output/split_audio/*
+model.pth
